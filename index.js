@@ -7,7 +7,7 @@ const client = new Client({
     ]
 });
 
-const token = "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"
+const token = "token-openAI"
 
 const send = async (message, dontSendHistory = false) => {
     const messages = [];
