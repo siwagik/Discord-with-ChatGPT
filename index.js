@@ -84,4 +84,4 @@ client.on('interactionCreate', async (interaction) => {
             await interaction.editReply({embeds: [embed]})
     }
 })
-client.login("MTEwNzI4NjA5NjU3ODA4OTA4MA.GN2tHR.3n1XUf85NlYDuh9L8SYH9-s3OmqnSckV_zONks");
+client.login("Discord-Bot-Token");
